@@ -41,5 +41,5 @@ List of members
 ## Channels
 
 + http://github.com/OnsideFC
-+ http://analyticsfc.slack.com
++ http://onsidefc.slack.com
 + http://onsidefc.github.io
